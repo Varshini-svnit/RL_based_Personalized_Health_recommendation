@@ -58,7 +58,9 @@ The dataset used to train the model can be found in dataset/ folder.
 
 - Reinforcement Learning
 - Thompson Sampling
-- Kalman Filtering
+- Kalman Filter
+- discounted sampling
+- sliding Window
 - Probabilistic LLM-based Filtering
 - Adaptive Recommendation Systems
 
