@@ -23,12 +23,10 @@ This project explores the application of Reinforcement Learning and probabilisti
 ## Technologies Used
 
 - Python
-- Google Colab
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Hugging Face Transformers
 
 ---
 
