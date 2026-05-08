@@ -1,22 +1,22 @@
 # RL-Based Personalized Health Recommendation System
 
-An adaptive healthcare recommendation framework that integrates Reinforcement Learning, Thompson Sampling, Kalman Filtering, and probabilistic LLM-based filtering to generate personalized health interventions and improve decision-making under uncertainty.
+A hybrid reinforcement learning approach which uses reinforcement learning, Thompson sampling, Kalman filtering, and probabilistic filtering using language models (LLMs) for generating personalized health interventions.
 
 ---
 
 ## Overview
 
-This project explores the application of Reinforcement Learning and probabilistic filtering techniques in personalized healthcare recommendation systems. The framework combines adaptive bandit-based learning with LLM-assisted filtering to enhance recommendation quality, stability, and personalization.
+This project looks at the implementation of RL, and probabilistic filtering methods for personalized healthcare recommendation systems. It aims to combine adaptive bandit learning method with the use of LLMs for better recommendations.
 
 ---
 
 ## Key Features
 
-- Thompson Sampling for adaptive intervention selection
-- Kalman Filter-based reward estimation and noise reduction
-- Probabilistic LLM filtering for improved recommendation reliability
-- Personalized healthcare recommendation generation
-- Experimental evaluation and performance visualization
+- Thompson Sampling adaptive algorithm for intervention selection
+- Reward estimation through Kalman Filters
+- Use of probabilistic filtering based on LLMs for reliable recommendations
+- Generating personalized healthcare recommendations
+- Performance analysis and visualization
 
 ---
 
@@ -42,15 +42,15 @@ This project explores the application of Reinforcement Learning and probabilisti
 
 ## Dataset
 
-The experimental dataset used for training and evaluation is available in the `dataset/` directory.
+The dataset used to train the model can be found in dataset/ folder.
 
 ---
 
 ## Execution
 
-1. Open the notebook in Google Colab
-2. Upload the dataset file
-3. Execute all notebook cells sequentially
+1. Open notebook in Google Colab
+2. Upload dataset file
+3. Run all notebook cells one by one
 
 ---
 
